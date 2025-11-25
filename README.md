@@ -12,7 +12,7 @@ Welcome to GitHub Docs! GitHub’s documentation is open source, meaning anyone 
 
 There are two GitHub Docs repositories: 
 
-- **`github/docs`** (public): Open to external contributions
+- **`github/docs`**  Open to external contributions
 
 - **`github/docs-internal`** (private): For GitHub employee contributions. 
 
